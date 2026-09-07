@@ -1,41 +1,47 @@
-## O que tem nessa floresta? Um guia rápido para o seu aplicativo sobre onças-pintadas! 
+# Pesquisa sobre Onças-Pintadas
 
-** Olá, explorador da selva virtual! **
+Projeto desenvolvido durante a Imersão Dev com Gemini da Alura.
 
-Esse projeto te leva numa aventura pela incrível vida das onças-pintadas, o maior felino das Américas.  Aqui você encontra um monte de informações legais sobre esse animal incrível, desde curiosidades até projetos de conservação. 
+## Sobre o projeto
 
-** Como funciona essa mágica? **
+Aplicação web desenvolvida para realizar pesquisas sobre onças-pintadas, apresentando informações relacionadas ao animal, curiosidades e conservação.
 
-1. **Digite sua busca:** Quer saber sobre a dieta da onça? Ou talvez sobre projetos de conservação? É só digitar sua palavra-chave no campo de pesquisa e dar um clique!
-2. **Resultados na hora:** Nossa busca inteligente vai vasculhar um banco de dados cheio de informações e te mostrar tudo que encontrar sobre o seu termo. 
-3. **Explore à vontade:** Cada resultado te leva para um link com ainda mais detalhes sobre o assunto. 
+O usuário pode inserir um termo de pesquisa e visualizar os resultados correspondentes na aplicação.
 
-**️ Ferramentas que usamos nessa aventura: ️**
+## Tecnologias utilizadas
 
-* **HTML:** A estrutura básica da nossa página, como se fosse a ossada de um site.
-* **CSS:** O estilo da página, deixando tudo bonitinho e organizado, como a pelagem da onça.
-* **JavaScript:** A inteligência por trás da busca, fazendo tudo funcionar como mágica! 
-* **GitHub:** O lugar onde guardamos todo o código do projeto, como uma floresta virtual.
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
 
-** Bora contribuir? **
+## Funcionalidades
 
-Quer ajudar a proteger as onças-pintadas? Você pode contribuir para esse projeto de várias formas:
+- Campo de pesquisa
+- Busca por termos relacionados às informações cadastradas
+- Exibição dinâmica dos resultados
+- Links para informações adicionais
+- Interface responsiva
 
-* **Corrigindo bugs:** Achou algum erro? Nos avise!
-* **Adicionando novas informações:** Tem alguma curiosidade sobre a onça? Compartilhe com a gente!
-* **Melhorando o design:** Tem ideias para deixar a página ainda mais bonita? Manda ver!
+## O que pratiquei
 
-** Vamos juntos proteger o "Rei da Selva" das Américas! **
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Manipulação de elementos com JavaScript
+- Organização de dados para utilização na aplicação
+- Lógica de busca e exibição de resultados
+- Utilização do GitHub para versionamento e publicação do projeto
 
-**#onçapintada #conservação #programação #HTML #CSS #JavaScript #GitHub**
+## Inteligência Artificial
 
-**⚠️ Aviso importante: ⚠️**
+Durante o desenvolvimento, utilizei ferramentas de Inteligência Artificial como apoio para aprendizado, pesquisa, compreensão de conceitos e resolução de dúvidas.
 
-Esse projeto está em constante desenvolvimento. Pode ser que você encontre alguns bugs ou falhas pelo caminho. Se isso acontecer, por favor, seja paciente e nos ajude a melhorar!  
+## Projeto online
 
-**Agradecimentos:**
+[Visualizar projeto](https://imersao-dev-gemini-alura-psi.vercel.app/)
 
-* A todos os pesquisadores e organizações que trabalham pela conservação da onça-pintada.
-* A você, explorador da selva virtual, por se interessar por esse tema tão importante.
+## Autora
 
-**Vamos juntos fazer a diferença!**
+Jéssica da Rocha Moreira
+
+[GitHub](https://github.com/JessicaRMoreira)
